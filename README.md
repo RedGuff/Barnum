@@ -6,4 +6,4 @@ Tu es un expert en C++. Donne-moi un code source de logiciel en C++, avec "using
 
 => J'ai une erreur ligne 33 : random_shuffle n'est pas défini dans ce scope !
 
-Correction faite, cela marche !
+Correction faite elon ce que me propose ChatGPT, cela marche !
